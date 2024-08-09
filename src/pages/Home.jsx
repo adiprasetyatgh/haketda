@@ -24,7 +24,7 @@ export default function Home() {
             xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" >
             <path strokeLinecap="round" strokeLinejoin="round" d="M5 12h14" />
           </svg>
-          <p className="text-white text-center text-xl font-semibold 20 mb-16 ">Solusi Perekat dengan berbagai macam pilihan yang terpercaya dengan pengiriman Gratis di Jakarta 
+          <p className="text-white text-center text-xl font-semibold 20 mb-16 ">Solusi perekat dengan berbagai macam pilihan yang terpercaya dengan pengiriman Gratis di Jakarta 
           <br /> 
           Ukuran akurat dengan layanan pelanggan 24/7</p>
           <ButtonLink
